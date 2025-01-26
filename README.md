@@ -14,6 +14,13 @@ If you find our repository useful, please cite the corresponding paper:
   year={2023},
   organization={IEEE}
 }
+
+@article{deng2025towards,
+  title={Towards Robust Multi-tab Website Fingerprinting},
+  author={Deng, Xinhao and Zhao, Xiyuan and Yin, Qilei and Liu, Zhuotao and Li, Qi and Xu, Mingwei and Xu, Ke and Wu, Jianping},
+  journal={arXiv preprint arXiv:2501.12622},
+  year={2025}
+}
 ```
 
 ## Extension
